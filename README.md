@@ -60,3 +60,8 @@ This will look something like that:
 
 
 
+http://localhost:8082/ui/packages
+
+
+
+
