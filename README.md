@@ -60,7 +60,7 @@ This will look something like that:
 
 
 
-http://localhost:8082/ui/packages
+http://localhost:8082/ui/packages?ref_job_id=31650&ref_section=packages
 
 
 
