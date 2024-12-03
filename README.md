@@ -55,7 +55,6 @@ In the above example a star with fixed radius is created, then being rotated.
 While rotating it, its 2 points connection distance is being change from smaller to greater.
 This will look something like that:
 
-![star-animation](https://github.com/25natan/star-shape/assets/73939462/5dc51205-f492-4964-85be-c73ef2f7bcba)
 
 
 
