@@ -59,7 +59,6 @@ This will look something like that:
 
 
 
-https://fecloud4136369.jfrogdev.org/ui/packages?ref_job_id=31650&ref_section=packages
 
 
 
